@@ -1,26 +1,4 @@
 /*===============================================
-	
-	Author	:	Noman Ali Samejo
-	
-	Item	:	Doe - Responsive vCard Template
-
--------------------------------------------------
-	List of Contents
--------------------------------------------------
-	
-	01. General Styles
-	02. Preloader
-	03. Navigation
-	04. About Section
-	05. Portfolio Section
-	06. Resume Section
-	07. Blog Section
-	08. Contact Section
-	09. Responsive CSS
-	
-===============================================*/
-
-/*===============================================
 	General Styles	
 ===============================================*/
 @import 'https://fonts.googleapis.com/css?family=Roboto+Mono:100,100i,300,300i,400,400i,500,500i,700,700i';
@@ -558,7 +536,8 @@ body.dark-color .menu-items > li > a:before{
 	margin-top:60px;
 }
 .person-img> img{
-	width:180px;
+	border-radius: 60%;
+	width: 250px;
 }
 .about-text{
 	margin-top:40px;
